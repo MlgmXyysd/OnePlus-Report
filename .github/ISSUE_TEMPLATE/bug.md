@@ -15,7 +15,7 @@ assignees: MlgmXyysd
 ### 手机型号
 OnePlus 
 
-### 系统版本
+### 系统版本(仅支持氢氧系统bug反馈)
 - [x] 氢OS
 - [ ] 氧OS
 
