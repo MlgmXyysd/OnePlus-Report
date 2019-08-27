@@ -10,3 +10,5 @@
 [建议提交说明](Suggest.md)
 
 [日志抓取教程](Log-catch.md)
+
+[反馈标签说明](Label.md)
