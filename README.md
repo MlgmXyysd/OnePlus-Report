@@ -8,3 +8,5 @@
 [BUG反馈说明](Bug-report.md)
 
 [建议提交说明](Suggest.md)
+
+[日志抓取教程](Log-catch.md)
