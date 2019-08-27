@@ -2,22 +2,22 @@
 
 1. 阶段1：提交
 
-- suggest：建议提交
+- suggest：建议
 
 - bug：bug反馈
 
 2. 阶段2：审查
 
-- reported：已提交
+- reported：已提交给一加员工
 
-- invalid：无效反馈
+- invalid：无效反馈（会被close）
 
-- duplicate：重复反馈
+- duplicate：重复反馈（会被close）
 
-3. 阶段3：反馈给一加员工
+3. 阶段3：已反馈给一加员工
 
 - recorded：已记录
 
-- reject：已拒绝
+- reject：已拒绝（会被close）
 
-- solved：已采纳
+- solved：已采纳（会被close）
