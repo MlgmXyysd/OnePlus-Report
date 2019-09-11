@@ -21,6 +21,8 @@ OnePlus
 
 版本：
 
+Android 版本：
+
 ### Bug 的具体描述
 
 
