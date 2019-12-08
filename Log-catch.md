@@ -20,7 +20,7 @@
 
 - 方法一（推荐）：
 
-- 1) 下载OnePlus LogKit（下载地址：[GitHub](https://github.com/MlgmXyysd/OnePlus-Report/releases/download/1.0/OnePlus.LogKit_1.0.apk) [百度网盘](https://pan.baidu.com/s/11WAgYYlEn5AfIstSmoCUDw)）[作者：MlgmXyysd，非一加官方应用]
+- 1) 下载OnePlus LogKit（下载地址：[GitHub](https://github.com/MlgmXyysd/OnePlus-Report/releases/download/1.0/OnePlus.LogKit_1.0.apk) [百度网盘](https://pan.baidu.com/s/11WAgYYlEn5AfIstSmoCUDw) [酷安](https://coolapk.com/apk/org.meowcat.oneplus.logkit)）[作者：MlgmXyysd，非一加官方应用]
 
 - 2) 安装后直接打开
 
